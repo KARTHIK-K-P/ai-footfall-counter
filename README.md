@@ -458,16 +458,7 @@ appearance_threshold=0.5  # Feature similarity threshold (0.0-1.0)
 
 ---
 
-## 📝 License
 
-This project uses several open-source libraries:
-- YOLOv8: AGPL-3.0
-- PyTorch: BSD-style license
-- OpenCV: Apache 2.0
-
-Please ensure compliance with respective licenses for commercial use.
-
----
 
 ## 🤝 Contributing
 
@@ -499,6 +490,4 @@ For issues, questions, or contributions:
 
 ---
 
-**Version**: 1.0  
-**Last Updated**: November 2024  
-**Status**: Production Ready ✅
+
