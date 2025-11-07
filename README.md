@@ -1,8 +1,9 @@
 
 OUTPUT VIODES DRIVE LINK :  https://drive.google.com/drive/folders/12nw-JeVzO60oqf5uFB6PGmIoJXyH0Wrw?usp=drive_link
 
-NOTE *📌*  [ app.py is for normal terminal/console execution with OpenCV windows
-main.py is for Streamlit web interface (browser-based) ] 
+NOTE *📌*  
+1. app.py is for normal terminal/console execution with OpenCV windows
+2. main.py is for Streamlit web interface (browser-based) 
 
 # 🎯 Footfall Counter System with Heatmap & Trajectory Visualization
 
